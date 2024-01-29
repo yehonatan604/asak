@@ -44,6 +44,5 @@ for (let key in obj) {
     console.log(key + ': ' + obj[key]);
 }
 
-
 // for of = array
 // for in = object
